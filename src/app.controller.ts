@@ -7,7 +7,7 @@ export class AppController {
   root() {
     return {
       data: {
-        title: 'zzb',
+        title: '랜덤채팅',
         copyright: 'zzbtang',
       },
     };
